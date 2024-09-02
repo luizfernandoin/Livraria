@@ -8,7 +8,7 @@
 
 ---
 
-###  Aplicação para listagem de filmes.
+###  Aplicação para listagem de livros.
 ![alt text](/livraria/static/src/site.png)
 
 ### Descrição
